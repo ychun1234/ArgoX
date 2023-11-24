@@ -2,18 +2,18 @@
 L='C' # C for Chinese / E for English
 
 # VPS ip
-SERVER_IP=''
+SERVER_IP='44.227.217.144'
 
 # Argo
-ARGO_DOMAIN=''
+ARGO_DOMAIN='rargo.lxmx.gay'
 # For example: ARGO_DOMAIN='argo.xray.com'
-ARGO_AUTH=''
+ARGO_AUTH='{"AccountTag":"c1507d0b0222f88887ff79e264354013","TunnelSecret":"FP+R/cvhvEy9lkISdLBBJ857DEQ1jLLYwFz4YGz1L+4=","TunnelID":"d04fd51c-2596-4a80-b93e-4573830f2f9a"}'
 # For example - Json : ARGO_AUTH='{"AccountTag":"9cc9e3e4dag29d2a02e297f14f20513a","TunnelSecret":"vRzeQmSagqjCoQ0mzvl0qDR8dVROE889m0TnbZhJKHs=","TunnelID":"acd8c712-b088-4660-8187-e69abfa38443"}'
 # Token: ARGO_AUTH='eyJhIjoiOWNjOWUzZTRkOGYyOWQyYTAyZTI5N2YxNagyFzUxM2EiLCJ0IjoiYTcyMmUwNjYtODlmYi00ZjJmLTgagDQtOGEwOTVhNTkzM2I2IiwicyI6Ik9XTTFaak0xWWprdE16QTRNQzAwTUdVMExUbGlaV0V0TmpFek9UZzFNRGczWkdRNCJ9'
 
 # Xray
-SERVER='icook.hk'
-UUID='ffffffff-ffff-ffff-ffff-ffffffffffff'
+SERVER='44.227.217.144'
+UUID='e6670230-5fb1-45e0-b180-41560f1a6681'
 WS_PATH='argox'
 REALITY_PRIVATE='iFgLurn7LeLvfKLAjn41R7_OISJ0-fDOZvoBMGcnvVU'
 REALITY_PUBLIC='SpFP6OlOOTkBnwOyBwzJT5I7oCIrCtGxU7pHK_qMJwA'
